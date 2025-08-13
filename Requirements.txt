@@ -1,0 +1,11 @@
+Dataset
+The dataset used for this project can be downloaded from__[here](https://catalog.data.gov/dataset/electric-vehicle-population-data)__
+
+The following is the content of the Requirements.txt file:
+```
+# Required packages for the project
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+# Optional packages for enhanced functionality
+seaborn>=0.11.0
