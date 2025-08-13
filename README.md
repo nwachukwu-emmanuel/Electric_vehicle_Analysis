@@ -1,4 +1,4 @@
-# ELECTRIC VEHICLES: A MARKET SIZE EXPLORATION
+# <h1>ELECTRIC VEHICLES: A MARKET SIZE EXPLORATION</h1>
 
 ## Project Overview:
 This project explores the growth and current state electric vehicle (EV) market using data-driven analysis.
@@ -11,7 +11,7 @@ The main goals od this project are:
 - Categorize the **EV types** and compare their prevalence.
 - Evaluate **make and model popularity** in the EV market.
 - Conduct an **electric range analysis** to assess performance.
-Estimate the **current and potential market size**.
+- Estimate the **current and potential market size**.
 
 ## Key Metrics Analyzed
 
@@ -43,6 +43,7 @@ Estimate the **current and potential market size**.
 - **IDE:** VS Code
 - **Data Format:** CSV
 
+
 ## Result and Insights
 
 **Adoption Trends**
@@ -68,4 +69,24 @@ Estimate the **current and potential market size**.
 - TESLA Models (Y, and 3) dominates the EV space
 - NISSAN LEAF is the 3rd most popular EV
 
+**Electric Ranges**
+- High frequency of Low electric range EVs
+- Most TESLA's EVs are high electric range vehicle
 
+**EV Type Evolution**
+- Significant rise in battery electric vehicles (BEV) from 2016 - 2023 with a decline from 2023 - 2025
+- Steady rise in plug-in electric vehicles (PHEV) from 2016 - 2024 with a decline from 2024 - 2025
+- The BEVs are more popular than the PHEVs.
+
+**EV Market Estimation**
+- The EV market is expected to see a gradual rise in the next 5 years
+
+## **<h2>PROJECT LIMITATIONS</h2>**
+- This project utilized EV registration data from the state of Washington in the US
+- A prediction model was not used to estimate future market size
+
+## **<h2>FUTURE ENHANCEMENTS</h2>**
+- Add EV registration data from other states and possibly other countries.
+- Use a predictive model to predict future EV market size.
+- Include charging infrastructure analysis.
+- Access carbon footprint reduction impact.
